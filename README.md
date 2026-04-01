@@ -54,5 +54,5 @@
 ---
 
 ## <a id="preview"></a>📸 게임 화면
-*(여기에 실제 게임 실행 화면 스크린샷이나 GIF 파일을 업로드 후 링크를 걸어주세요!)*
-![Game Play](이미지_주소_입력)
+<img width="914" height="540" alt="image" src="https://github.com/user-attachments/assets/30e03af6-7b78-4594-87ef-95c8ad729102" />
+
